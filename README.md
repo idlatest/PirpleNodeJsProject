@@ -2,13 +2,13 @@
 
 This is the first assignment on Node.js Master Class offered by Pirple
 
-** How to run **
+* How to run
 
-- Clone this repository
+- Clone this repository:
  git clone https://github.com/idlatest/PirpleNodeJsProject.git
 
-- cd to the folder and run Type
+- cd to the folder and run Type:
  node index.js
 
-- then open your favourite browser and type
+- then open your favourite browser and type:
   http://localhost:3000

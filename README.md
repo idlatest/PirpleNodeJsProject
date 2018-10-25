@@ -1,8 +1,8 @@
-### Assignment One ###
+# Assignment One
 
 This is the first assignment on Node.js Master Class offered by Pirple
 
-# How to run
+## How to run
 
 * Clone this repository:
  git clone https://github.com/idlatest/PirpleNodeJsProject.git
